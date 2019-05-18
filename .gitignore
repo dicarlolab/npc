@@ -1,0 +1,16 @@
+.idea/
+.ipynb_checkpoints/
+Results_dump/
+*.hdf5
+*.pyc
+*.pkl
+config
+HEAD
+description
+hooks/
+info/
+*.h5
+*.png
+*.JPEG
+*.gif
+
