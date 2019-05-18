@@ -5,7 +5,7 @@ Data is available at:
 
 https://s3.amazonaws.com/npc-v4-data/npc_v4_data.h5.zip
 
-View [here][notebooks/example.ipynb] for an example code snippet.
+View [here](notebooks/example.ipynb) for an example code snippet.
 
 # Refernce
 If you are using data or code from this repository please refer to our publication: 
